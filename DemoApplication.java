@@ -1,6 +1,6 @@
 package com.example.demo;
 
-import org.springframework.boot.Spring;
+import org.springframework.boot.SpringApplicationDummy;
 
 public class DemoApplication {
 
